@@ -1,0 +1,10 @@
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.csproj.AssemblyReference.cache
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.AssemblyInfoInputs.cache
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.AssemblyInfo.cs
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.csproj.CoreCompileInputs.cache
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\bin\Debug\netstandard2.0\OfficeHelperOpenXml.deps.json
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\bin\Debug\netstandard2.0\OfficeHelperOpenXml.dll
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\bin\Debug\netstandard2.0\OfficeHelperOpenXml.pdb
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.dll
+D:\pythonf\c_sharp_project\officeHelperOpenxml\OfficeHelperOpenXml\obj\Debug\netstandard2.0\OfficeHelperOpenXml.pdb
